@@ -1,9 +1,7 @@
-# Vite ⚡
+# Create Task
 
-> Next Generation Frontend Tooling
+I will create a multiplication quiz to help learn your times tables!
 
-All you need to do is hit run and start making changes which will be updated live.
+This will work entirely in a text interface.
 
-You can add install and use npm packages, you can use the Packager tool to search and manage your packages.
-
-[Read the Docs to Learn More](https://vitejs.dev) and configure your frontend application.
+We will make use of procedural abstraction, lists, and more!
