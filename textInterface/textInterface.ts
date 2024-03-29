@@ -1,6 +1,6 @@
 import './textInterface.css';
 
-const yesWords = ['y','Yes','YES','t','TRUE'];
+const yesWords = ['y','yes','yes','t','true'];
 const noWords = ['n','false','no','nope','null'];
 
 export class TextInterface {
