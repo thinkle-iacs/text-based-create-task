@@ -1,10 +1,9 @@
 export default {
+  base: "./",
   server: {
-    base: "./",
     host: '0.0.0.0',
   },
   build: {
     target: 'es2022',
-    base: './',
   }
 }
