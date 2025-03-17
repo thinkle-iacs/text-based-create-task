@@ -1,7 +1,14 @@
 # Create Task
 
-I will create a multiplication quiz to help learn your times tables!
+This is a repository for creating a simple Create Task using the text-interface library. The code goes in `main.js`.
 
-This will work entirely in a text interface.
+To run this, you need to run:
 
-We will make use of procedural abstraction, lists, and more!
+```
+npm run dev
+```
+
+The Text Interface library is documented here:
+https://thinkle-iacs.github.io/Text-Interface-Sandbox/
+
+Remember you will need to use `await` and `async` to use the text interface.
